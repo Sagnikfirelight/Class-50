@@ -1,0 +1,14 @@
+h1 {
+    color: green;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: greenyellow;
+    display:flex;
+    justify-content : space-between
+}
+p,h2
+{text-align : "centre"}
